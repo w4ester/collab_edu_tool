@@ -1,0 +1,22 @@
+{
+  "name": "self-advocacy-platform",
+  "version": "0.1.0",
+  "description": "A platform to help students with disabilities develop self-advocacy skills",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"Development server starting\" && exit 0",
+    "build": "echo \"Building project\" && exit 0",
+    "test": "echo \"Running tests\" && exit 0",
+    "lint": "echo \"Linting code\" && exit 0"
+  },
+  "keywords": [
+    "accessibility",
+    "education",
+    "self-advocacy",
+    "disabilities"
+  ],
+  "author": "UMBC Education Department",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
