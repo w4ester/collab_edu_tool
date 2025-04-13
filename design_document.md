@@ -1,7 +1,7 @@
 # Special Needs Student Self-Advocacy Tool
 
 ## Project Overview
-This application aims to help students with special needs practice and improve their self-advocacy skills. The tool will be installed on student devices, allowing them to train the application according to their preferences and run through self-advocacy scenarios.
+This application aims to help students practice and improve their self-advocacy skills. The tool will be installed on student devices, allowing them to train the application according to their preferences and run through self-advocacy scenarios.
 
 ## Core Requirements
 1. Student-centered application that can be loaded on individual devices
