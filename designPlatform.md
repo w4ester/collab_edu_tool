@@ -1,7 +1,7 @@
 # Self-Advocacy Platform for Students with Disabilities
 
 ## Overview
-An application designed to help middle and high school students with disabilities advocate for themselves by training the app to their preferences and using it to navigate various scenarios.
+An application designed to help middle and high school students advocate for themselves by training the app to their preferences and using it to navigate various scenarios.
 
 ## Core Components
 
