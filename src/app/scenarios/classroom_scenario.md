@@ -17,7 +17,7 @@ The student is in a classroom where the teacher has assigned a timed test. The s
 1. **Initial Approach**
    - Wait until after class
    - Raise hand during class
-   - Send an email before class
+   - Send a message before class
    - [Based on student preference]
 
 2. **Communication Style**
