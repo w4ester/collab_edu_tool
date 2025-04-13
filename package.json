@@ -1,7 +1,7 @@
 {
   "name": "self-advocacy-platform",
   "version": "0.1.0",
-  "description": "A platform to help students with disabilities develop self-advocacy skills",
+  "description": "A platform to help students to develop self-advocacy skills",
   "main": "index.js",
   "scripts": {
     "dev": "echo \"Development server starting\" && exit 0",
